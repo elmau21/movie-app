@@ -1,1 +1,1 @@
-# movie-app
+# movie-app using a REST API
